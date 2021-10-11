@@ -6,4 +6,8 @@ echo "he modificado esto para trabajar en mi nueva rama  test index y que haya c
 
 
 // quiero hacer un cambio en index.php desde test index
+
+
+
+echo "hago cambios en test_index";
  ?>
